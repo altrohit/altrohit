@@ -15,3 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=orhitg)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/<trekrohit>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/<trekrohit>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
