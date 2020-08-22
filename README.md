@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am student at [IIT Tirupati](https://iittp.ac.in/) pursuing MS in Computer Science and Engineering. I'm interested in python programming and working on adaptation logic of **D**ynamic **A**daptive **S**treaming over **H**TTP (*DASH*). 
+I am student at [IIT Tirupati](https://iittp.ac.in/) pursuing MS (Research) in Computer Science and Engineering. I'm interested in python programming and working on adaptation logic of **D**ynamic **A**daptive **S**treaming over **H**TTP (**DASH**). 
 
 ## Some of my Github Public Stats
 [![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=orhitg&show_icons=true&theme=dark)](https://github.com/orhitg)
@@ -24,7 +24,7 @@ I am student at [IIT Tirupati](https://iittp.ac.in/) pursuing MS in Computer Sci
 
 ## Find me around the web :globe_with_meridians:
 [![Gmail Badge](https://img.shields.io/badge/-guptrrohit@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:guptrrohit@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-orhitg%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/orhitg/ "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-orhitg-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/orhitg/ "Connect on LinkedIn")
 [![Telegram Badge](https://img.shields.io/badge/-@trekrohit-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/trekrohit "Contact on Telegram")
 [![Twitter Badge](https://img.shields.io/badge/-@trekrohit-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=trekrohit "Follow on Twitter")
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/trekrohit/)
