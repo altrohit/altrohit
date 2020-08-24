@@ -31,5 +31,5 @@ I am student at [IIT Tirupati](https://iittp.ac.in/) :classical_building::india:
 [![DEV Badge](https://img.shields.io/badge/-guptarohit-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/guptarohit)
 [![StackOverflow Badge](https://img.shields.io/badge/-learninggiraffe-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/5672907/learninggiraffe)
 
-
+[![Linux Badge](https://img.shields.io/badge/Linux-%E2%9D%A4-red)](https://img.shields.io/badge/Linux-%E2%9D%A4-red)
 [![Visits Badge](https://badges.pufler.dev/visits/orhitg/orhitg)](https://badges.pufler.dev)
