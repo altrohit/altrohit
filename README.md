@@ -23,13 +23,11 @@ I am student at [IIT Tirupati](https://iittp.ac.in/) :classical_building::india:
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 
 ## Find me around the web :earth_asia:
-[![Gmail Badge](https://img.shields.io/badge/-guptrrohit@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:guptrrohit@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-orhitg-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/orhitg/ "Connect on LinkedIn")
 [![Telegram Badge](https://img.shields.io/badge/-@trekrohit-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/trekrohit "Contact on Telegram")
 [![Twitter Badge](https://img.shields.io/badge/-@trekrohit-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=trekrohit "Follow on Twitter")
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/trekrohit/)
 [![DEV Badge](https://img.shields.io/badge/-guptarohit-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/guptarohit)
-[![StackOverflow Badge](https://img.shields.io/badge/-learninggiraffe-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/5672907/learninggiraffe)
 
 [![Linux Badge](https://img.shields.io/badge/Linux-%E2%9D%A4-red)](https://img.shields.io/badge/Linux-%E2%9D%A4-red)
 [![Visits Badge](https://badges.pufler.dev/visits/orhitg/orhitg)](https://badges.pufler.dev)
