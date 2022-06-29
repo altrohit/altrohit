@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am student at [IIT Tirupati](https://iittp.ac.in/) :classical_building::india: pursuing MS (Research) in Computer Science and Engineering. I'm interested in python programming and working on adaptation logic of **D**ynamic **A**daptive **S**treaming over **H**TTP (**DASH**). 
+I am researcher at TCS Research and Innovation Labs, Pune India. I pursued MS (Research) in Computer Science and Engineering from [IIT Tirupati](https://iittp.ac.in/) :classical_building::india:. I'm interested in application of Reinforcement Learning. Previously I have worked on adaptation logic of **D**ynamic **A**daptive **S**treaming over **H**TTP (**DASH**). 
 
 ## Some of my Github Public Stats :arrow_double_down:
 [![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=orhitg&show_icons=true&theme=dark)](https://github.com/orhitg)
