@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I am researcher at TCS Research and Innovation Labs, Pune India. I pursued MS (Research) in Computer Science and Engineering from [IIT Tirupati](https://iittp.ac.in/) :classical_building::india:. I'm interested in application of Reinforcement Learning. Previously I have worked on adaptation logic of **D**ynamic **A**daptive **S**treaming over **H**TTP (**DASH**). 
 
 ## Some of my Github Public Stats :arrow_double_down:
-[![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=orhitg&show_icons=true&theme=dark)](https://github.com/orhitg)
+[![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=altrohit&show_icons=true&theme=dark)](https://github.com/altrohit)
 
 ## I've experience in :arrow_double_down:
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
