@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Rohit Gupta :sunglasses:
+### Hi there 👋 I'm Rohit Gupta!!!
 
 <!--
 **orhitg/orhitg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,6 +28,8 @@ I am researcher at TCS Research and Innovation Labs, Pune India. I pursued MS (R
 [![Twitter Badge](https://img.shields.io/badge/-@trekrohit-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=trekrohit "Follow on Twitter")
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/trekrohit/)
 [![DEV Badge](https://img.shields.io/badge/-guptarohit-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/guptarohit)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=altrohit&show_icons=true&locale=en&layout=compact" alt="altrohit" /></p>
 
 [![Linux Badge](https://img.shields.io/badge/Linux-%E2%9D%A4-red)](https://img.shields.io/badge/Linux-%E2%9D%A4-red)
 [![Visits Badge](https://badges.pufler.dev/visits/orhitg/orhitg)](https://badges.pufler.dev)
